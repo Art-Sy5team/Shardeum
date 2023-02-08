@@ -120,25 +120,25 @@ Stake amount (SHM) [empty and is in units ether not wei]
 <h2 align="center"><strong>Perintah-perintah Berguna</strong></h2>
 
 ### Start operator
-
+```
 operator-cli start
-
+```
 ### Storp operator
-
+```
 operator-cli stop
-
+```
 ### Check Status operator
-
+```
 operator-cli status
-
+```
 ### Check list operator
-
+```
 pm2 list
-
+```
 ### Delete operator
-
+```
 pm2 delete [id]
-
+```
 ### Art-Team INFO
 
 noted: **art team** here does not have any specific goals or intentions, they only collect data and share it with everyone.
