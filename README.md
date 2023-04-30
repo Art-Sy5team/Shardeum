@@ -96,9 +96,11 @@ pm2 list
 [![Shardeum.png](https://i.postimg.cc/RVYFdV7t/Shardeum.png)](https://postimg.cc/qz84MrZB)
 
 ### Start Validator
-
+  
+```
 operator-cli start
-
+```
+  
 ### Check status
 
 ```
@@ -128,6 +130,15 @@ operator-cli start
 operator-cli stop
 ```
 ### Check Status operator
+```
+### Update dan cek versi
+
+```
+operator-cli update
+```
+
+```
+operator-cli version
 ```
 operator-cli status
 ```
